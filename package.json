@@ -1,5 +1,5 @@
 {
-  "name": "roit-base-lib",
+  "name": "roit-utils",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "src/index.ts",
