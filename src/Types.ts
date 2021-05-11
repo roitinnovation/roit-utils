@@ -1,0 +1,1 @@
+export type NormalizeTypes = "NFC" | "NFD" | "NFKC" | "NFKD"
