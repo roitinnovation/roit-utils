@@ -1,1 +1,1 @@
-// export { Module } from "./Module"
+export { md5, normalizeString } from "./Utils"
